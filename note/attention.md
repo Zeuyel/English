@@ -91,6 +91,14 @@ information 15. among the facts, facts 用复数，among 是三个或者三个�
 18. 代词是使用一定要指代清楚，如果实在指代不明，不如不用，直接说全那个名词  
 19. 冠词，可数名词单数一定有冠词或者所有格（your, her, his 之类的）  
 20. 图表题的描述可以用一般现在时。
+21. **连词 vs. 副词 vs. 介词 (Conjunction vs. Adverb vs. Preposition)**
+    - **连词 (e.g., but, and, although, when):** 用于连接词、短语或句子。`but` 是并列连词，可以直接连接两个独立的句子。
+    - **副词 (e.g., however, meanwhile):** 用于修饰动词、形容词或整个句子，表示转折或时间关系，但不能直接连接两个句子。`however` 前面通常用句号或分号。
+    - **介词 (e.g., on, in, with):** 后面只能跟名词、代词或动名词，构成介词短语。
+    - **例:** `I wanted to go, **but** I was tired.` (正确)
+    - **例:** `I wanted to go. **However**, I was tired.` (正确)
+    - **例:** `I wanted to go; **however**, I was tired.` (正确)
+    - **例:** `I wanted to go, **however** I was tired.` (错误)
 
 ## 写作逻辑
 

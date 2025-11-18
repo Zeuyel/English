@@ -100,7 +100,9 @@ A. This is such a perfect book that I want to read it.
 B. I am happy today because I earned such a great bag today that I am thrilled. (原因状语)  
 C. It is important to have such a great book that I can read it every day. (形式主语)
 
-③  So that连在一起句子1sothat句子2。句子1和句子2之间是递进关系，所以翻译成“以至于”Thereare so manyapples so that there is no other fruit.
+③  So that连在一起:句子1 so that 句子2. 句子1和句子2之间是递进关系，所以翻译成“以至于”
+
+There are so many apples so that there is no other fruit.
 
 作文好句
 
@@ -140,6 +142,11 @@ A. I can make you a player.
 
 B.I want to make it become more and more popular to play soccer in our nation.
 
+注意：除了 "make" 和 "leave"，其他动词如 "find", "consider", "think", "believe", "deem" 等也可以用于此结构，尤其当表达对某事物的看法或判断时。
+例句：
+- I find it difficult to wake up early. (我发现早起很难。)
+- We consider it our duty to help. (我们认为帮助是我们的职责。)
+
 作文好句
 
 It is advisable to stick to our own beliefs and keep going no matter how many difficulties and drawbacks/ handicaps we will face.
@@ -165,6 +172,51 @@ My teacher, almost overwhelmed by her projects, will have some time to do sth.
 作文好句
 
 From my perspective, the meaning conveyed in that drawing seems that persistence should be regarded as a pivotal character in our lifetime.
+
+### 非谓语动词
+
+```mermaid
+flowchart TD
+    A[非谓语动词] --> B[不定式];
+    A --> C[动名词];
+    A --> D{分词};
+
+    D --> D1[现在分词];
+    D --> D2[过去分词];
+
+    B --> B1["Noun, Adjective, Adverb"];
+    C --> C1["Noun ONLY"];
+    D1 --> D1a["Adjective / Adverb"];
+    D2 --> D2a["Adjective / Adverb"];
+```
+
+非谓语动词共有三种形式，它们在句子中不能单独作谓语，而是根据其不同的“目的”或“功能”，承担其他句子成分。
+
+**1. 不定式 (Infinitive): `to + 动词原形`**
+   - **目的/功能:** 可作名词、形容词、副词，功能最多样。
+   - **作名词:** `To learn is important.` (目的：将“学习”这个动作名词化，作为主语)
+   - **作形容词:** `I have a promise to keep.` (目的：修饰名词 `promise`)
+   - **作副词:** `He works hard to succeed.` (目的：说明主句动作 `works hard` 的目的)
+
+**2. 动名词 (Gerund): `V-ing` 形式**
+   - **目的/功能:** 其唯一目的是充当 **名词**。它强调动作本身，像一件“事情”。
+   - **作主语:** `Reading is fun.` (将“阅读”作为一件事，来做主语。)
+   - **作宾语:** `I enjoy reading.` (作为动词 `enjoy` 的宾语。)
+   - **核心区别:** 动名词(Gerund)和现在分词(Present Participle)虽然形式都可能是`V-ing`，但功能完全不同。动名词是名词，而现在分词是形容词或副词。
+
+
+**3. 分词 (Participle): 包括现在分词和过去分词**
+   - **目的/功能:** 其主要目的是充当 **形容词** 或 **副词**，用来描述或修饰。
+
+   - **A. 现在分词 (Present Participle): `V-ing` 形式**
+     - **核心含义:** 表示“主动”和“进行”。
+     - **作形容词 (定语):** `a developing country` (一个正在发展中的国家)
+     - **作副词 (状语):** `Seeing the police, the thief ran away.` (提供主句动作发生的时间背景)
+
+   - **B. 过去分词 (Past Participle): `V-ed` 形式**
+     - **核心含义:** 表示“被动”或“完成”。
+     - **作形容词 (定语):** `a broken window` (一扇被打破的窗户)
+     - **作副词 (状语):** `Seen from space, the Earth is blue.` (从太空被看，地球是蓝色的。)
 
 ## 6. 动名词作主语
 
@@ -215,10 +267,14 @@ xxxxxx[核心], though xxxxxx 为求翻译速读这里的“though”可翻译�
 
 3. as 
 
-    1. as 作介词, 即翻译为“作为”——as+n. (as 后面接名词, 那就翻译为 “作为”)  
+    1. as 作介词, 即翻译为“作为”——as+n. (as 后面接名词, 那就翻译为 “作为”)
     2. as 作连词：as+句子，有三个意思：
     
         1. 译为“当/随着……”
+           *   **与 `while` 的区别:** `while` 在表示“当……时”时，通常要求从句使用进行时态（V-ing），强调持续的背景动作。而 `as` 在此含义下，可以使用简单时态（表示渐进变化或同时发生的短暂动作）或进行时态（与 `while` 类似，但不如 `while` 强调持续性）。
+           *   **例:** `As the day ended, the air grew colder.` (渐进变化，简单时态)
+           *   **例:** `As he opened the door, he saw a package.` (同时发生的短暂动作，简单时态)
+           *   **例:** `As I was walking down the street, I saw my friend.` (持续动作，进行时态，与 `while` 类似)
         2.  译为“因为”，其结构为：主句（主句描述一个现象），asxxxxxx(现象产生的原因）例句：我们的社会进步了，因为……。  
         3. “as”译为“正如”，结构：as sb/sth v.该结构通常置于句首或是当插入语。
 
@@ -352,7 +408,7 @@ It is indeed through lifelong learning that we can maintain our curiosity and th
 
 倒装句2：Rarely could I finish this.
 
-$\spadesuit$  常见否定副词积累：
+常见否定副词积累：
 
 only/ rarely/ seldom/ hardly/ nor/ merely/ barely/ not only/ neither/scarcely.
 
@@ -360,3 +416,27 @@ only/ rarely/ seldom/ hardly/ nor/ merely/ barely/ not only/ neither/scarcely.
 作文好句
 
 Rarely are people who aren't adept at cooperating with others aware of their strengths and weaknesses clearly. (正常语序: People who aren't adept at cooperating with others are rarely aware of their strengths and weaknesses clearly)
+
+## 13. 无灵主语 (Inanimate Subject)
+
+含义理解：指使用事物、观点、概念或事件等“没有生命”的词来充当句子的主语，而不是使用人（如 I, we, they）。这种句型在正式文体和学术写作中非常普遍，因为它能让表达更客观、更正式，避免过多的个人色彩。
+
+写作思维：将个人观点或行为转变为客观事实的陈述。
+
+A. 我认为这个政策是有效的。  $\rightarrow$  数据显示这个政策是有效的。
+   I think this policy is effective.  $\rightarrow$  The data suggests that this policy is effective.
+
+B. 我们可以在图表中看到一个趋势。  $\rightarrow$  图表显示了一个趋势。
+   We can see a trend in the chart.  $\rightarrow$  The chart shows a trend.
+
+C. 如果你努力工作，你就会成功。  $\rightarrow$  努力工作会带来成功。
+   If you work hard, you will succeed.  $\rightarrow$  Hard work leads to success.
+
+例句：
+
+A. The 21st century has witnessed rapid technological advancement. (21世纪见证了科技的飞速发展。)
+B. This report highlights several key issues we need to address. (这份报告凸显了我们需要解决的几个关键问题。)
+
+作文好句：
+
+The past decade has witnessed a growing awareness among the public that environmental protection is of vital importance.
