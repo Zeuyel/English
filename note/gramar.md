@@ -143,6 +143,7 @@ A. I can make you a player.
 B.I want to make it become more and more popular to play soccer in our nation.
 
 注意：除了 "make" 和 "leave"，其他动词如 "find", "consider", "think", "believe", "deem" 等也可以用于此结构，尤其当表达对某事物的看法或判断时。
+
 例句：
 - I find it difficult to wake up early. (我发现早起很难。)
 - We consider it our duty to help. (我们认为帮助是我们的职责。)
@@ -161,9 +162,14 @@ It is advisable to stick to our own beliefs and keep going no matter how many di
 
 Reading this book, my teacher is happy.
 
+> 做状语用来修饰动词
+
 2. 主谓宾+非谓语+宾语（后置的非谓语用逗号隔开，主语可以是前面的整句话）
 
 There are many spectators watching the DT show, suggesting that Chinese cultures are becoming more and more popular.
+
+> 一方面可以做状语。
+> 另一方面，作为主句的原因结果。
 
 3. 推荐句型：主语+定语(非谓语)+谓语+宾语
 
@@ -173,50 +179,43 @@ My teacher, almost overwhelmed by her projects, will have some time to do sth.
 
 From my perspective, the meaning conveyed in that drawing seems that persistence should be regarded as a pivotal character in our lifetime.
 
-### 非谓语动词
+### 非谓语动词功能总结图
 
 ```mermaid
-flowchart TD
-    A[非谓语动词] --> B[不定式];
-    A --> C[动名词];
-    A --> D{分词};
+graph LR
+    A["非谓语动词 (Non-finite Verbs)"] --> B["动名词 (Gerund)"];
+    A --> C["不定式 (Infinitive)"];
+    A --> D["分词 (Participle)"];
 
-    D --> D1[现在分词];
-    D --> D2[过去分词];
+    subgraph 动名词 Gerund
+        B --> B1["形式: V-ing"];
+        B --> B2["功能: 名词 (Noun)\n作主语、宾语等"];
+        B2 --> B3["例: Reading is fun.\n(阅读是主语)"];
+    end
 
-    B --> B1["Noun, Adjective, Adverb"];
-    C --> C1["Noun ONLY"];
-    D1 --> D1a["Adjective / Adverb"];
-    D2 --> D2a["Adjective / Adverb"];
+    subgraph 不定式 Infinitive
+        C --> C1["形式: to + V原形"];
+        C --> C2["功能: 名词, 形容词, 副词\n(Noun, Adj, Adv)"];
+        C2 --> C3["作主语: To see is to believe.\n(眼见为实)"];
+        C2 --> C4["作目的状语: He works hard to succeed.\n(他努力工作以求成功)"];
+    end
+
+    subgraph 分词 Participle
+        D --> D_Present["现在分词 (Present Participle)"];
+        D --> D_Past["过去分词 (Past Participle)"];
+
+        D_Present --> DP1["形式: V-ing"];
+        D_Present --> DP2["功能: 形容词, 副词 (Adj, Adv)\n含义: 主动 / 进行"];
+        DP2 --> DP3["作定语: a developing country\n(一个发展中国家)"];
+        DP2 --> DP4["作状语: Seeing the police, the thief ran away.\n(小偷看见警察就跑了)"];
+
+        D_Past --> PP1["形式: V-ed"];
+        D_Past --> PP2["功能: 形容词, 副词 (Adj, Adv)\n含义: 被动 / 完成"];
+        PP2 --> PP3["作定语: a developed country\n(一个发达国家)"];
+        PP2 --> PP4["作状语: Seen from the hill, the city is beautiful.\n(从山上望去，城市很美)"];
+    end
 ```
 
-非谓语动词共有三种形式，它们在句子中不能单独作谓语，而是根据其不同的“目的”或“功能”，承担其他句子成分。
-
-**1. 不定式 (Infinitive): `to + 动词原形`**
-   - **目的/功能:** 可作名词、形容词、副词，功能最多样。
-   - **作名词:** `To learn is important.` (目的：将“学习”这个动作名词化，作为主语)
-   - **作形容词:** `I have a promise to keep.` (目的：修饰名词 `promise`)
-   - **作副词:** `He works hard to succeed.` (目的：说明主句动作 `works hard` 的目的)
-
-**2. 动名词 (Gerund): `V-ing` 形式**
-   - **目的/功能:** 其唯一目的是充当 **名词**。它强调动作本身，像一件“事情”。
-   - **作主语:** `Reading is fun.` (将“阅读”作为一件事，来做主语。)
-   - **作宾语:** `I enjoy reading.` (作为动词 `enjoy` 的宾语。)
-   - **核心区别:** 动名词(Gerund)和现在分词(Present Participle)虽然形式都可能是`V-ing`，但功能完全不同。动名词是名词，而现在分词是形容词或副词。
-
-
-**3. 分词 (Participle): 包括现在分词和过去分词**
-   - **目的/功能:** 其主要目的是充当 **形容词** 或 **副词**，用来描述或修饰。
-
-   - **A. 现在分词 (Present Participle): `V-ing` 形式**
-     - **核心含义:** 表示“主动”和“进行”。
-     - **作形容词 (定语):** `a developing country` (一个正在发展中的国家)
-     - **作副词 (状语):** `Seeing the police, the thief ran away.` (提供主句动作发生的时间背景)
-
-   - **B. 过去分词 (Past Participle): `V-ed` 形式**
-     - **核心含义:** 表示“被动”或“完成”。
-     - **作形容词 (定语):** `a broken window` (一扇被打破的窗户)
-     - **作副词 (状语):** `Seen from space, the Earth is blue.` (从太空被看，地球是蓝色的。)
 
 ## 6. 动名词作主语
 
@@ -271,17 +270,13 @@ xxxxxx[核心], though xxxxxx 为求翻译速读这里的“though”可翻译�
     2. as 作连词：as+句子，有三个意思：
     
         1. 译为“当/随着……”
-           *   **与 `while` 的区别:** `while` 在表示“当……时”时，通常要求从句使用进行时态（V-ing），强调持续的背景动作。而 `as` 在此含义下，可以使用简单时态（表示渐进变化或同时发生的短暂动作）或进行时态（与 `while` 类似，但不如 `while` 强调持续性）。
-           *   **例:** `As the day ended, the air grew colder.` (渐进变化，简单时态)
-           *   **例:** `As he opened the door, he saw a package.` (同时发生的短暂动作，简单时态)
-           *   **例:** `As I was walking down the street, I saw my friend.` (持续动作，进行时态，与 `while` 类似)
         2.  译为“因为”，其结构为：主句（主句描述一个现象），asxxxxxx(现象产生的原因）例句：我们的社会进步了，因为……。  
         3. “as”译为“正如”，结构：as sb/sth v.该结构通常置于句首或是当插入语。
 
     3. 补充：“as...as”结构
 
-1）该结构的翻译方法：把第一个as忽略，第二个as翻译成正如。 例句：This city is as beautiful as shanghai. 这个城市是美丽的正如上海。  
-2)写作提示：就算抹除第一个as,剩余的整个句子也必须符合语法。
+        1) 该结构的翻译方法：把第一个as忽略，第二个as翻译成正如。 例句：This city is as beautiful as shanghai. 这个城市是美丽的正如上海。  
+        2) 写作提示：就算抹除第一个as,剩余的整个句子也必须符合语法。
 
 【错误例句】This school grows as beautiful as that school.
 
@@ -408,7 +403,7 @@ It is indeed through lifelong learning that we can maintain our curiosity and th
 
 倒装句2：Rarely could I finish this.
 
-常见否定副词积累：
+$\♠$  常见否定副词积累：
 
 only/ rarely/ seldom/ hardly/ nor/ merely/ barely/ not only/ neither/scarcely.
 
